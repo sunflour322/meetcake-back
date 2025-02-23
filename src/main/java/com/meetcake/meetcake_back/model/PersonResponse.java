@@ -1,6 +1,8 @@
 package com.meetcake.meetcake_back.model;
 
 import lombok.Data;
+import lombok.Getter;
+import lombok.Setter;
 import lombok.experimental.Accessors;
 
 @Data
